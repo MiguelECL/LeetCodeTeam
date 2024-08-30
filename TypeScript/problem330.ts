@@ -1,3 +1,4 @@
+
 // La idea es recorrer el rango de 1 a n 
 // verificando que las combinaciones del array se enceuntran ahi
 function minPatches(nums: number[], n: number): number {
